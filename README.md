@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a **front-end developer** and **UX/UI designer** passionate about creating user-centric digital experiences. My work focuses on blending **clean code** with **intuitive design** to build responsive and engaging web applications.
 
-![Coder GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
 
 ---
 
